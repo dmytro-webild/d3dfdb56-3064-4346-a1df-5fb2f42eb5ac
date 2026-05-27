@@ -64,7 +64,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{
         variant: "sparkles-gradient"}}
-      title="Unlock Your Financial Potential with CryptoForge (Wan'na be rich)"
+      title="Unlock your financial freedom.                                             Just retire your parents and earn                                "
       description="The most secure and intuitive platform for decentralized finance, advanced trading, and innovative crypto investments. Empowering your journey to financial freedom."
       testimonials={[
         {
@@ -129,7 +129,7 @@ export default function LandingPage() {
   <div id="about" data-section="about">
       <MetricSplitMediaAbout
       useInvertedBackground={true}
-      title="Building the Future of Digital Finance"
+      title="Building a dedicated site for only serious persons,who wan'na be successful."
       description="CryptoForge is dedicated to providing a secure, transparent, and user-friendly platform for everyone to access the world of cryptocurrencies. Our mission is to democratize finance, enabling individuals to take control of their assets with cutting-edge technology and robust security protocols."
       metrics={[
         {
