@@ -93,7 +93,7 @@ export default function LandingPage() {
           handle: "@CryptoQueen",
           testimonial: "CryptoForge transformed my portfolio! The insights and security are unparalleled.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5391.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5391.jpg?_wi=1",
           imageAlt: "Sarah Johnson",
         },
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
           handle: "@BlockchainPro",
           testimonial: "Seamless user experience and powerful tools. A game-changer for serious investors.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/technician-optimizing-data-center-equipment-maximum-efficiency_482257-117650.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/technician-optimizing-data-center-equipment-maximum-efficiency_482257-117650.jpg?_wi=1",
           imageAlt: "Michael Chen",
         },
         {
@@ -164,7 +164,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Join 1M+ Users"
-      imageSrc="http://img.b2bpic.net/free-photo/stock-market-trader-analyzing-charts_23-2151937277.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/stock-market-trader-analyzing-charts_23-2151937277.jpg?_wi=1"
       imageAlt="Futuristic cryptocurrency dashboard"
       marqueeItems={[
         {
@@ -241,7 +241,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/community-cloud-storage-sync-secure_53876-125542.jpg",
             imageAlt: "Secure crypto wallet on phone",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/stock-market-trader-analyzing-charts_23-2151937277.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stock-market-trader-analyzing-charts_23-2151937277.jpg?_wi=2",
           imageAlt: "crypto trading app ui",
         },
         {
@@ -255,7 +255,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169859.jpg",
             imageAlt: "NFT marketplace on tablet",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5391.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-blonde-businesswoman-formal-dressed-isolated-dark-textured-background_613910-5391.jpg?_wi=2",
           imageAlt: "crypto trading app ui",
         },
         {
@@ -269,7 +269,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-freelancer-working-from-home-business-app-home-business-laptop-computer-businesswoman-office-working-sitting-woman-work-communication-internet-people-online-happy-technology_482257-47239.jpg",
             imageAlt: "Staking and yield farming interface",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/technician-optimizing-data-center-equipment-maximum-efficiency_482257-117650.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/technician-optimizing-data-center-equipment-maximum-efficiency_482257-117650.jpg?_wi=2",
           imageAlt: "crypto trading app ui",
         },
       ]}
