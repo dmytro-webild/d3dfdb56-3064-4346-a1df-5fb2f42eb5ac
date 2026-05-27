@@ -64,7 +64,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{
         variant: "sparkles-gradient"}}
-      title="Unlock Your Financial Potential with CryptoForge"
+      title="Unlock Your Financial Potential with CryptoForge (Wan'na be rich)"
       description="The most secure and intuitive platform for decentralized finance, advanced trading, and innovative crypto investments. Empowering your journey to financial freedom."
       testimonials={[
         {
